@@ -1,5 +1,5 @@
 Subnet = 10.0.0.1
-Address = lrnzo.mooo.com
+#Address = lrnzo.mooo.com
 
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAwdOo+h3+omAxOdcTipVz6kA0dZvhrGbyleYj3rhNM6hYMpap9r1Z
