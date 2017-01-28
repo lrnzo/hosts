@@ -1,4 +1,6 @@
 Subnet = 10.0.1.6
+Port = 6551
+
 -----BEGIN RSA PUBLIC KEY-----
 MIIBCgKCAQEAtozbqcq1bEjapRkNJ+SF0VM5E/s78QiqjeINpe3Kb0ODIBljPn4z
 eX+tgWfVfgupAORVX9inJqFhGxKGl1C1O+8sK8/Xl40HOMSZweJQsxznl+m+L3qf
